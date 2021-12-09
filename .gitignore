@@ -1,0 +1,6 @@
+/static/dataset/
+/static/model/
+explain.txt
+/.pytest_cache
+/__pycache__
+/venv
